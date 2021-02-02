@@ -4,7 +4,7 @@
 
 - - -
 
-_Ein Vortrag von Heide Berndt am 20. und 21. September 1968 zum "Bergeykse Kongressen" in Amsterdam. Digitalisiert von Frank Lämmer. Mehr Informationen zu dieser Ausgabe: [github.com/frank-laemmer/architektur-als-ideologie](https://github.com/frank-laemmer/architektur-als-ideologie)_
+_Ein Vortrag von Heide Berndt am 20. und 21. September 1968 zum "Bergeykse Kongressen" in Amsterdam. Mit freundlicher Unterstützung es Het Nieuwe Instituut. Digitalisiert von Frank Lämmer. Mehr Informationen zu dieser Ausgabe: [github.com/frank-laemmer/architektur-als-ideologie](https://github.com/frank-laemmer/architektur-als-ideologie)_
 
 - - -
 
