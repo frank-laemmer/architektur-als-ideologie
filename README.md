@@ -4,8 +4,8 @@ Der Text "Architektur als Ideologie" ist ein Aufsatz von Heide Berndt aus dem Ja
 
 ## Downloads
 
-+ [architektur-als-ideologie.epub](https://github.com/frank-laemmer/architektur-als-ideologie/architektur-als-ideologie.epub)
-+ [architektur-als-ideologie.pdf](https://github.com/frank-laemmer/architektur-als-ideologie/architektur-als-ideologie.pdf)
++ [architektur-als-ideologie.epub](architektur-als-ideologie.epub)
++ [architektur-als-ideologie.pdf](architektur-als-ideologie.pdf)
 
 ## Struktur und Inhalt
 
@@ -42,7 +42,7 @@ Mehr Informationen zur technischen Umsetzung finden sich auf [diesem Medium Blog
 
 Der Text kann unter share alike Bedingungen genutzt werden. Mehr hier: [LICENSE.md](LICENSE.md)
 
-Die Original Scans wurden mit freundlicher Genehmigung des Het Nieuwe Instituut [https://hetnieuweinstituut.nl/](hetnieuweinstituut.nl) zur Verfügung gestellt. Die Grafiken stehen unter Copyright:  Collection Het Nieuwe Instituut/ BROZ, 506.6-16
+Die Original Scans wurden mit freundlicher Genehmigung des Het Nieuwe Instituut [hetnieuweinstituut.nl](https://hetnieuweinstituut.nl/) zur Verfügung gestellt. Die Grafiken stehen unter Copyright:  Collection Het Nieuwe Instituut/ BROZ, 506.6-16
 
 
 ## Kontakt
