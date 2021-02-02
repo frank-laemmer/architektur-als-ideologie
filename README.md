@@ -36,7 +36,7 @@ Die Endformate können aus den Markdown-Dateien erstellt werden. Pandoc ist ein 
   pandoc src/metadata.txt src/text.md -o architektur-als-ideologie.pdf
 ```
 
-Mehr Informationen zur technischen Umsetzung finden sich auf [diesem Medium Blog Post](https://medium.com/@frank_laemmer/from-analog-text-to-e-book-e1a90dcbe92).
+Mehr Informationen zur technischen Umsetzung finden sich auf [diesem Medium Blog Post](https://frank-laemmer.medium.com/from-analog-text-to-e-book-e1a90dcbe92).
 
 ## Lizenz
 
