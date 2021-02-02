@@ -1,0 +1,7 @@
+---
+title: Architektur als Ideologie
+subtitle: oder kann die Architektur als symbolische Sprache lesbar gemacht werden?
+author: Heide Berndt
+language: de-DE
+rights: Attribution-NonCommercial-ShareAlike 4.0 International
+...
